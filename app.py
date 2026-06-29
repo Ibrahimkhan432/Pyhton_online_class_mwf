@@ -87,6 +87,10 @@
 # sum = num1 + num2
 # print(sum)
 
-obtain = int(input("enter your marks : "))
-total = int(input("enter total marks : "))
-print("your percentage is ", obtain / total *100)
+# obtain = int(input("enter your marks : "))
+# total = int(input("enter total marks : "))
+# print("your percentage is ", obtain / total *100)
+
+asssignment
+.function(fullname)
+.input (user multiplication)
